@@ -1,0 +1,58 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif;
+  color: white;
+  background-color: black;
+  background-image: url(../oscars/starrynight.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+img {float: left;
+  width: 1000px;
+height: 400px;}
+
+#oscarhome {font-size: 8px;}
+
+#welcome {
+  clear: both;
+  background-color: black;
+  padding: 30px;
+  border: 5px solid white;
+  margin-top: 20px;
+}
+
+#oscarlinks {
+  clear: both;
+  background-color: black;
+  padding: 10px;
+  border: 5px solid white;
+  margin-top: 30px;
+}
+
+#voting {
+  clear: both;
+  background-color: black;
+  padding: 10px;
+  border: 5px solid white;
+  margin-top: 30px
+}
+
+h2 {
+  border-bottom: 3px dotted red;
+  font-family: forte;
+  font-size: 40px;
+}
+
+a { 
+  color: yellow;
+}
+a:hover {
+  color: purple;
+}
+p, li { 
+  font-size: 16px;
+  line-height: 24px;
+}
