@@ -4,13 +4,14 @@ body {
   font-family: helvetica neue, arial, sans-serif;
   color: white;
   background-color: black;
-  background-image: starrynight.jpg;
+  background-image: url(starrynight.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
 }
 
-img {float: left;
+img {
+  float: left;
   width: 1000px;
 height: 400px;}
 
