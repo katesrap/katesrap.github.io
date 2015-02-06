@@ -1,0 +1,28 @@
+body {
+  font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background-color: darkslateblue;
+  background-attachment: fixed;
+}
+
+.navbar {font-family: 'Lukiest Guy', cursive;
+color: red;
+font-size: 18px;
+
+}
+
+.jumbotron {
+	background-color: darkturquoise;
+	color: white;
+	border: 10px solid white;
+}
+
+#buttons {
+	text-align: center;
+	margin: 20px;
+}
+
+#worldmap img {
+	margin-top: 50px;
+	border: 10px solid white;
+}
