@@ -1,7 +1,7 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background-image: url(utensils.jpg);
+  background: url(stamps2.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -19,7 +19,24 @@ font-size: 18px;
 	border: 10px solid white;
 }
 
-#table {
-background-color: white;
+#jumbo1 {
+	margin: 20px;
 
+}
+
+
+#Kyoto img {
+	border: 10px solid black;
+}
+
+#Capp img {
+	border: 10px solid black;
+}
+
+#Yangon img {
+	border: 10px solid black;
+}
+
+#NYC img {
+	border: 10px solid black;
 }

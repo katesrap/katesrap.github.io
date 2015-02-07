@@ -1,7 +1,7 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background-image: url(utensils.jpg);
+  background-image: url(blur.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -19,7 +19,22 @@ font-size: 18px;
 	border: 10px solid white;
 }
 
-#table {
-background-color: white;
+#istanbul {
+	color: white;
+	margin: 80px;
+}
 
+#argentina {
+	color: white;
+	margin: 80px;
+}
+
+#mystery {
+	color: white;
+	margin: 80px;
+}
+
+img {
+
+border: solid white;
 }
